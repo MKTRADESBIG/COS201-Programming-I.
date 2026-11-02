@@ -1,7 +1,7 @@
 # COS 201 - Computer Programming I
 
 ## Student Details
-- Name: Your Full Name
+- Name: MAKANJUOLA EMMANUEL 
 - Programme: Computer Science
 - Course Code: COS 201
 
