@@ -4,6 +4,7 @@
 - Name: MAKANJUOLA EMMANUEL 
 - Programme: Computer Science
 - Course Code: COS 201
+- matric number: 25/16409
 
 ## Week 1: Introduction to Programming and Problem-Solving
 Created my first Java programme and practised output statements.
